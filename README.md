@@ -16,7 +16,8 @@
 </ol>
 <h2>Part 3: Directions on Cloning a Repository from GitHub to WebStorm</h2>
 <ul>
-  <li></li>
+  <li>Create a repository on GitHub after pressing the "+" button. You should be on the tab named "<> Code" after.</li>
+  <li>Click on the drop down menu of the green button named "<> Code."</li>
 </ul>
 <br>
 <h1>Glossary of Important Terms</h1>
