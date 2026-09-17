@@ -2,9 +2,9 @@
 <h1>Tutorial on setting up a Github account and Webstrom</h1>
 <h2>Part 1: Directions on Using Webstorm</h2>
 <ol>
-  <li>Download the latest Git using the following url: <a href="https://git-scm.com/install/"https://git-scm.com/install/></li>
-  <li>Create a Github account using the following url: <a href="https://github.com/signup"https://github.com/signup></li>
-  <li>Download Webstorm using the following url: <a href="https://www.jetbrains.com/webstorm/"https://www.jetbrains.com/webstorm/> and clicking the "Download" button.</li>
+  <li>Download the latest Git using the following url: <a href="https://git-scm.com/install/">https://git-scm.com/install/</a></li>
+  <li>Create a Github account using the following url: <a href="https://github.com/signup">https://github.com/signup</a></li>
+  <li>Download Webstorm using the following url: <a href="https://www.jetbrains.com/webstorm/">https://www.jetbrains.com/webstorm/</a> and clicking the "Download" button.</li>
 </ol>
 <h2>Part 2: Directions on how to connect Git and Webstorm</h2>
 <ol>
