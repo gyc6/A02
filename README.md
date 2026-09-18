@@ -1,6 +1,6 @@
 # A02
 <h1>Tutorial on setting up a GitHub account and WebStorm</h1>
-<h2>Part 1: Directions on Using WebStorm</h2>
+<h2>Part 1: Downloading Applications and Setting Up a GitHub Account</h2>
 <ol>
   <li>Download the latest <strong>Git</strong> using the following url: <a href="https://git-scm.com/install/">https://git-scm.com/install/</a></li>
   <li>Create a <strong>Github</strong> account using the following url: <a href="https://github.com/signup">https://github.com/signup</a></li>
