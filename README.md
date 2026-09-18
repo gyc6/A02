@@ -11,7 +11,7 @@
   <li>Open WebStorm settings by pressing Ctrl+Alt+s.</li>
   <li>Select "Version Control."</li>
   <li>Select "<strong>Git.</strong>"</li>
-  <li>Select "Test" to make sure <strong>Git</strong> is connected with WebStorm. The location may display as C:\Program Files\Git\bin\git.exe or auto-detect as C:\Program Files\Git\cmd\git.exe. If <strong>Git</strong> was installed correctly, the version code should display. If not, try redownloading Git.</li>
+  <li>Select "Test" to make sure <strong>Git</strong> is connected with WebStorm. The location may display as C:\Program Files\Git\bin\git.exe or auto-detect as C:\Program Files\Git\cmd\git.exe. If <strong>Git</strong> was installed correctly, the version code should display. If not, try redownloading <strong>Git</strong>.</li>
   <li>Under "Version Control," select "<strong>Github</strong>" and choose to log in via your <strong>GitHub</strong> account. Authorize WebStorm in the browser window that pops up. When completed, your <strong>GitHub</strong> account should appear in your WebStorm settings. Then, select "OK."</li>
 </ol>
 <h2>Part 3: Directions on Cloning a Repository from GitHub to WebStorm</h2>
