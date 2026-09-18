@@ -10,33 +10,34 @@
 <ol>
   <li>Open WebStorm settings by pressing Ctrl+Alt+s.</li>
   <li>Select "Version Control."</li>
-  <li>Select "Git."</li>
+  <li>Select "<strong>Git.</strong>"</li>
   <li>Select "Test" to make sure <strong>Git</strong> is connected with WebStorm. The location may display as C:\Program Files\Git\bin\git.exe or auto-detect as C:\Program Files\Git\cmd\git.exe. If <strong>Git</strong> was installed correctly, the version code should display. If not, try redownloading Git.</li>
   <li>Under "Version Control," select "<strong>Github</strong>" and choose to log in via your <strong>GitHub</strong> account. Authorize WebStorm in the browser window that pops up. When completed, your <strong>GitHub</strong> account should appear in your WebStorm settings. Then, select "OK."</li>
 </ol>
 <h2>Part 3: Directions on Cloning a Repository from GitHub to WebStorm</h2>
 <ul>
-  <li>Create a repository on GitHub by pressing the "+" button. You should be on the tab named "<> Code" afterward.</li>
-  <li>Click on the drop-down menu of the green button named "<> Code." There should be a link and a message under it saying, "Clone using the web URL." Copy the link.</li>
-  <li>Open the main page of WebStorm. Select the option to clone repository. There will be a box for pasting the URL you copied from GitHub. Select Clone.</li>
+  <li>Create a <strong>repository</strong> on <strong>GitHub</strong> by pressing the "+" button. You should be on the tab named "<> Code" afterward.</li>
+  <li>Click on the drop-down menu of the green button named "<> Code." There should be a link and a message under it saying, "<strong>Clone</strong> using the web URL." Copy the link.</li>
+  <li>Open the main page of WebStorm. Select the option to <strong>clone repository</strong>. There will be a box for pasting the URL you copied from <strong>GitHub</strong>. Select <strong>Clone</strong>.</li>
 </ul>
 <br>
 <h1>Glossary of Important Terms</h1>
 <ul>
   <li><strong>Branch</strong>: a codeline that lets you work on something without affecting the main line.
-  <li><strong>Clone</strong>: creates a copy of your code on your local machine and syncs between two locations
-  <li><strong>Commit</strong>: a record of any changes, which is essential for understanding the changes in the future and being able to track down bugs quickly
-  <li><strong>Fetch</strong>: a command used to retrieve data from a server
-  <li><strong>GIT</strong>: a free control system that hosts servers, handles small and large projects, and has command-line tools
-  <li><strong>GitHub</strong>: a web-based platform with comprehensive tools to assist the process of building software
-  <li><strong>Merge</strong>: the combining of code changes from multiple branches into a single codebase
-  <li><strong>Merge Conflict</strong>: when code changes from different branches affect the same file in ways that Git cannot automatically reconcile
-  <li><strong>Push</strong>: a command that uploads local repositories to a remote server such as GitHub
-  <li><strong>Pull</strong>: a command that synchronizes the current local branch with its remote counterpart
-  <li><strong>Remote</strong>: a version of a repository hosted on the internet or another network, which acts as a reference point for team collaboration
-  <li><strong>Repository</strong>: a storage data structure where you can store your code, files, commits, and projects
+  <li><strong>Clone</strong>: creates a copy of your code on your local machine and syncs between two locations.
+  <li><strong>Commit</strong>: a record of any changes, which is essential for understanding the changes in the future and being able to track down bugs quickly.
+  <li><strong>Fetch</strong>: a command used to retrieve data from a server.
+  <li><strong>GIT</strong>: a free control system that hosts servers, handles small and large projects, and has command-line tools.
+  <li><strong>GitHub</strong>: a web-based platform with comprehensive tools to assist the process of building software.
+  <li><strong>Merge</strong>: the combining of code changes from multiple branches into a single codebase.
+  <li><strong>Merge Conflict</strong>: when code changes from different branches affect the same file in ways that Git cannot automatically reconcile.
+  <li><strong>Push</strong>: a command that uploads local repositories to a remote server such as GitHub.
+  <li><strong>Pull</strong>: a command that synchronizes the current local branch with its remote counterpart.
+  <li><strong>Remote</strong>: a version of a repository hosted on the internet or another network, which acts as a reference point for team collaboration.
+  <li><strong>Repository</strong>: a storage data structure where you can store your code, files, commits, and projects.
 </li>
 </ul>
+<br>
 <h1>References</h1>
 <ul>
   <li>Course Presentation Slides: Extra Installation Instructions</li>
